@@ -28,6 +28,8 @@ body {
     justify-content: center;
     align-content: center;
     font-family: inter;
+    zoom: 117%;
+    height: 103vh;
     
 }
 .parent {
