@@ -27,8 +27,7 @@ body {
     display: flex;
     justify-content: center;
     align-content: center;
-    font-family: inter;
-    
+    font-family: inter;   
 }
 .parent {
        width: 299px;
